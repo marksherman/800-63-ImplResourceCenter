@@ -1,0 +1,12 @@
+filename: '63C.tex'
+
+parts:
+- 'Introduction.md'
+- 'SecurityParameters.md'
+- 'RPs.md'
+- 'IdPs.md'
+- 'Scenarios.md'
+- 'Resources.md'
+
+doNotAddTitle:
+- 'Introduction.md'
